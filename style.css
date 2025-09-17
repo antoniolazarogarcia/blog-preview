@@ -15,7 +15,8 @@ body {
 .container {
     background-color: hsl(0, 0%, 100%);
     border-radius: 10px;
-    width: 345px;
+    max-width: 3
+    min-width: 270px;
     margin: auto;
     padding: 15px;
     margin-top: 13%;
